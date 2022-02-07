@@ -7,7 +7,17 @@ public static void main(String[] args) {
 		 * statement that 
 		 * utilizes conditional logic.
 		 */ 
-		
+			String name1 = "Kelvon";
+			String name2 = "Amirah";
+			int age1 = 25;
+			int age2 = 23;
+			
+			if(name1 && age1) {
+				if(name2 && age2) {
+					System.out.println("This is" + name1 + " and he is " + age1 + ", This is also " + name2 + "and she is " + age2);
+					
+				}
+			} 
 	
 	
 	
